@@ -15,7 +15,7 @@
 ## Installation
 - Download and install "NPM install".
 - Then run "node server.js" in your terminal.
-![Image](./public/assets/IMG/chall011term.png)
+![Image]()
 - You will need to make sure your URL is live "https://localhost:3001"
 
 [Back to top](#)
