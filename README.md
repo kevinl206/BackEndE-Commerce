@@ -1,4 +1,7 @@
 # BackEndE-Commerce
+
+### Walkthrough Video: 
+- [Video](https://drive.google.com/file/d/1bWSbwIapqJ4NVODgKEUeOZJMZgPUok4h/view)
 ### Github : https://github.com/kevinl206/BackEndE-Commerce.git
 
 ## Table of Contents
@@ -17,15 +20,16 @@
 - Download and install "NPM install".
 - Then run the following command in your terminal "mysql -u root -p" to connect to the database.
 - Next is to "source db/schema.sql"
-- Then run "node server.js" in your terminal.
-![Image]()
-- You will need to make sure your URL is live "https://localhost:3001"
+- After setting up your database, you should run "npm run seed"
+- Then run "node run start" in your terminal.
+- You will get a reply "App listening on port 3001!"
 
 [Back to top](#)
   
 ## Screenshot of Example
-![Image]()
-![Image]()
+![Image](./assets/3001.png)
+
+![Image](./assets/Screenshot%202023-02-26%20at%208.01.59%20PM.png)
 
 [Back to top](#)
   
